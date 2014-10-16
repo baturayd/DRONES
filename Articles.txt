@@ -1,0 +1,17 @@
+Enabling drone communications with WiMAX Technology
+
+With the popularity of winter tourism, the winter recreation activities have been increased day by day in alpine environments. However, large numbers of people and rescuers are injured and lost in this environment due to the avalanche accidents every year. Drone-based rescue systems are envisioned as a viable solution for saving lives in this hostile environment. To this aim, a European project named “Smart collaboration between Humans and ground-aErial Robots for imProving rescuing activities in Alpine environments (SHERPA)” has been launched with the objective to develop a mixed ground and aerial drone platform to support search and rescue activities in a real-world hostile scenarios. In this paper, we study the challenges of existing wireless technologies for enabling drone wireless communications in alpine environment. We extensively discuss about the positive and negative aspects of the standards according to the SHERPA network requirements. Then based on that, we choose Worldwide interoperability for Microwave Access network (WiMAX) as a suitable technology for drone communications in this environment. Finally, we present a brief discussion about the use of operating band for WiMAX and the implementation issues of SHERPA network. The outcomes of this research assist to achieve the goal of the SHERPA project.
+
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6878796&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6878796
+
+--------------------------------------------------
+
+Assessment of the suitability of public mobile data networks for aircraft telemetry and control purposes
+
+Abstract
+This paper provides a review of the state of the art of relevant work on the use of public mobile data networks for aircraft telemetry and control proposes. Moreover, it describes the characterisation for airborne uses of the public mobile data communication systems known broadly as 3G. The motivation for this study was to explore how this mature public communication systems could be used for aviation purposes. An experimental system was fitted to a light aircraft to record communication latency, line speed, RF level, packet loss and cell tower identifier. Communications was established using internet protocols and connection was made to a local server. The aircraft was flown in both remote and populous areas at altitudes up to 8500 ft in a region located in South East Queensland, Australia. Results show that the average airborne RF levels are better than those on the ground by 21% and in the order of -77 dbm. Latencies were in the order of 500 ms (1/2 the latency of Iridium), an average download speed of 0.48 Mb/s, average uplink speed of 0.85 Mb/s, a packet of information loss of 6.5%. The maximum communication range was also observed to be 70 km from a single cell station. The paper also describes possible limitations and utility of using such communications architecture for both manned and unmanned aircraft systems.
+
+http://ejournals.ebsco.com/Direct.asp?AccessToken=7TDT9T3B3FLOMNTNNNJMIJ0RVROMB9IT9I&Show=Object
+
+-----------------------------------------------
+
